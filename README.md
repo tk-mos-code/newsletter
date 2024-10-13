@@ -2,6 +2,8 @@
 
 Welcome to the **Monthly Newsletter** project! This project is a responsive email newsletter template designed to keep subscribers informed about industry trends, expert analysis, and exclusive offers.
 
+![Newsletter](newsletter.png)
+
 ## Features
 
 - **Responsive Design:** The template is fully responsive, ensuring it looks great on all devices.
